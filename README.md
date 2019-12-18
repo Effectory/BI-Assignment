@@ -3,7 +3,7 @@
 ## Case: Survey dashboard
 
 For this BI assessment, we want you to create a dashboard, using the datafile provided. 
-- Load the data in a normalized SQL database. (Please assume the solution should process multiple files with different sets of questions, modules and hierarchy levels)
+- Create a database model and load the data in the model.
 - Calculate for all the questions and modules, the average answer weight (where applicable) and answer distribution per node in the hierarchy.
 - Create a dashboard where the averages are reported and you can drill through the hierarchy and answer distribution.
 
@@ -19,10 +19,9 @@ It is recommended to stay close to Effectory’s tech stack. So we get a better 
 
 ## Expectations
 Depending on your degree of experience, we would like to see some creative ideas integrated in your solution. This is entirely up to you, and you can choose anything you want to enrich your solution. Some examples include
-- Clean data.
+- Data validation.
 - ETL process.
 - Keep performance in mind.
-- Normalized data model.
 - A good looking dashboard with some nice features.
 
 This assignment can be quite some work. You can spend as much time as you want on it, but in the end we expect a sufficient, working solution. And that you can explain how you approached this assignment and why you made some decisions.
