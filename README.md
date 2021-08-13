@@ -3,7 +3,7 @@
 ## Case: Survey dashboard
 
 For this BI assessment, we want you to create a dashboard, using the datafile provided.
-We recommend you to try to restrict the amount of time you spend on this case, preferably within half a day. 
+We recommend you to try to restrict the amount of time you spend on this case, preferably within a day. 
 -	Load the data in a normalized SQL database. (Please assume the solution should process multiple files with different sets of questions, modules and hierarchy levels)
 -	Create a query that calculates the aggregated data. Calculate for all the questions and modules, the average answer weight (where applicable) and answer distribution per node in the hierarchy. 
 -	Create a dashboard where the averages are reported and you can drill through the hierarchy and answer distribution.
